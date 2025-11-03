@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Brand Chat Assistant",
+  "description": "An AI-powered chat assistant for managing social media information. Select a brand, ask questions, or drag-and-drop an image to generate tailored post descriptions and content ideas.",
+  "requestFramePermissions": []
+}
